@@ -10,4 +10,6 @@ public class GestaoVagasApplication {
 		SpringApplication.run(GestaoVagasApplication.class, args);
 	}
 
+
+
 }
